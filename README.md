@@ -36,7 +36,7 @@
 
 <img src="https://user-images.githubusercontent.com/119660750/221355463-dbf6c8d5-8959-483a-92b0-2b9553ce500d.png">
 
-点击**安装脚本**即可![image]()
+点击**安装脚本**即可
 <img src="https://user-images.githubusercontent.com/119660750/221355469-6075a741-76db-4bd7-bcf8-0079711556f9.png">
 
 打开并登录你的  [学习通](http://i.mooc.chaoxing.com/space/index) ，看看右上角拓展那只猫上有没有红点，顺便点击一下脚本是否能开关，课是否能刷。
