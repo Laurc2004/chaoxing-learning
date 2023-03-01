@@ -50,5 +50,15 @@
 - 题目不一定都找得到，所以可以先关闭脚本，然后刷新界面，自己答题
 - **电脑最好一直把这个界面放到前台（放到如图界面，别去切屏看别的）。 后台界面不是不可以，但经常刷课卡着停在那**
 - 以上脚本2023.10停用 且用且珍惜
+##### 这边在推荐几款2023.10不到期的
+- OCS: https://github.com/ocsjs/ocsjs#readme (可能要付费)
+- 全自动版:https://greasyfork.org/zh-CN/scripts/435357
+- 答题专版:https://greasyfork.org/zh-CN/scripts/455607
+- 视频专版:https://greasyfork.org/zh-CN/scripts/443122
+【这个视频专版使用教程：
+1、安装本脚本并启用
+2、打开学习通此网址:https://i.chaoxing.com/base/settings （使用方法与其他脚本不同，请打开这个网址！！！！）
+3、根据提示选择需要刷的课程】
+
 
 <img src="https://user-images.githubusercontent.com/119660750/221355495-e4dad061-be73-42c9-95b7-21e07ef60aa9.png">
