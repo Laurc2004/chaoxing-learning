@@ -52,7 +52,12 @@
 - 以上脚本2023.10停用 且用且珍惜
 ##### 这边在推荐几款2023.10不到期的
 - OCS: https://github.com/ocsjs/ocsjs#readme (可能要付费)
+- 🏆超星学习通全能辅助: https://scriptcat.org/script-show-page/830
 - 全自动版:https://greasyfork.org/zh-CN/scripts/435357
+  【这个全自动版使用教程：
+  1、打开课程列表页面https://mooc2-ans.chaoxing.com/visit/interaction
+  2、点击你需要完成的课程即可
+  3、本脚本无需页面跳转，有如下图的运行框即为运行正常】
 - 答题专版:https://greasyfork.org/zh-CN/scripts/455607
 - 视频专版:https://greasyfork.org/zh-CN/scripts/443122
 【这个视频专版使用教程：
